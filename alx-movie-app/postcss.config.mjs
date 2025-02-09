@@ -7,12 +7,17 @@ const withPWA = withPWAInit({
 })
 
 const nextConfig = {
-  reactStrictMode: true,
+  // reactStrictMode: true,
   images: {
     domains: ['m.media-amazon.com'],
   },
 };
 
 export default withPWA({
-  ...nextConfig
+  ...nextConfig,
+   plugins: {
+    tailwindcss: {},
+    autoprefixer: {},
+  },
 })
+
