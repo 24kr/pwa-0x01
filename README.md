@@ -1,4 +1,4 @@
-# ALX Project 0x14 - MoviesDatabase API
+# ALX_PWA_0X01 - MoviesDatabase API
 
 ## Introduction
 This project is aimed at understanding and working with APIs effectively, particularly focusing on using the MoviesDatabase API. By studying the API documentation, we learn how to make requests, handle responses, and utilize TypeScript to create clear and robust type definitions for both requests and responses. The ultimate goal is to demonstrate proficiency in interacting with APIs and managing their data in a structured manner.
